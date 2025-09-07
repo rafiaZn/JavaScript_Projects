@@ -1,2 +1,2 @@
 # JavaScript_Projects
-JAvaScript Practice Projects
+JavaScript Practice Projects
